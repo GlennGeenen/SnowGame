@@ -1,0 +1,16 @@
+html,
+body {
+	padding: 0;
+	margin: 0;
+	background: #000;
+	cursor: url(../assets/snowball.png), auto;
+}
+.game {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+}
+canvas {
+	overflow: hidden;
+}
